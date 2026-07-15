@@ -1,4 +1,4 @@
-# Asynchronous Wireless Optical Communication Link (Li-Fi)
+# Optical-Data-Transmission (Li-Fi)
 
 This repository contains the source code for a wireless optical communication link utilizing On-Off Keying (OOK) packet transmission. The architecture utilizes an ESP8266 transmitter to encode and send string payloads via infrared light, paired with an ESP32 receiver designed to filter background noise and reconstruct the data stream.
 
